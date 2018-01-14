@@ -1,0 +1,7 @@
+[package]
+name = "piston-wasm"
+version = "0.1.0"
+authors = ["Vignesh <developer@sankaran.io>"]
+
+[dependencies]
+piston = "0.35"
